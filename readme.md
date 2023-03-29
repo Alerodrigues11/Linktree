@@ -12,7 +12,7 @@ Design completamente responsivo
 <br>
 Dark Theme e Light Theme
 
-| Layout Desktop  |  Layout Mobile  |
-| --------------- | --------------- |
-|  <img src=""> |  <img src=""> |
+| Layout Dark  |  Layout Light  |
+| -------------| -------------- |
+|  <img src="https://github.com/Alerodrigues11/Linktree/blob/main/img/Layout-dark.PNG"> |  <img src="https://github.com/Alerodrigues11/Linktree/blob/main/img/Layout-light.PNG"> |
 
